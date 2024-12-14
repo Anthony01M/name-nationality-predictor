@@ -14,6 +14,7 @@ This project is a Name Nationality Predictor that allows users to input their na
 - HTML
 - CSS
 - JavaScript
+- [Nationalize API](https://nationalize.io/)
 
 ## Installation
 
